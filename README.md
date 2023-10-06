@@ -100,6 +100,9 @@ This Project contains the following Blueprints.
 1. Builds a Win2022 UEFI Single ISO for macOS or Linux.
 2. Creates an ESXi node and boots to CD ROM running the unattended installer. 
 
+### Autounattend Windows Server 2016 (Win2016) BIOS Dual ISO on macOS or Linux Worker for ESXi
+
+
 
 
 
