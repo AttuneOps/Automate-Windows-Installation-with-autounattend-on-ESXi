@@ -1,12 +1,12 @@
 {
     "actionOnStepFail": "stop", 
     "blueprintName": "", 
-    "blueprintUuid": "8a407614-f7cc-43f2-87b3-b1d4a9e902b6", 
+    "blueprintUuid": "5f27c35e-ed3c-4069-bd04-8d52b5bfc5ca", 
     "cloneUrl": "", 
     "enabled": true, 
-    "externalUuid4": "effe6a3d-437f-4d47-b4c8-0a6c49252c03", 
-    "key": "createwin2016uefiautounattendsingleisoonmacosorlinuxworkerlink", 
-    "name": "Create Win2016 UEFI autounattend Single ISO on macOS or Linux Worker (link)", 
+    "externalUuid4": "78543fcf-7225-48f2-8545-7fe251499733", 
+    "key": "createwin2019biosautounattendsingleisoonmacosorlinuxworkerlink", 
+    "name": "Create Win2019 BIOS autounattend Single ISO on macOS or Linux Worker (link)", 
     "parameterMap": [
         {
             "childParameterName": null, 
@@ -33,7 +33,7 @@
             "childProjectName": null, 
             "childProjectUuid": "05c41adc-9b4e-49f9-b72c-aa4ee4a0cf27", 
             "parentParameterKey": null, 
-            "parentStaticTextValue": "false"
+            "parentStaticTextValue": "true"
         }, 
         {
             "childParameterName": null, 
@@ -42,7 +42,7 @@
             "childProjectName": null, 
             "childProjectUuid": "05c41adc-9b4e-49f9-b72c-aa4ee4a0cf27", 
             "parentParameterKey": null, 
-            "parentStaticTextValue": "true"
+            "parentStaticTextValue": "false"
         }, 
         {
             "childParameterName": null, 
