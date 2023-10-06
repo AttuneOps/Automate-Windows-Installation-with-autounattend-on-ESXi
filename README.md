@@ -115,6 +115,9 @@ This Project contains the following Blueprints.
 ### Autounattend Windows Server 2022 (Win2022) BIOS Dual ISO on macOS or Linux Worker for ESXi
 
 
+### Autounattend Windows Server 2022 (Win2022) UEFI Dual ISO on macOS or Linux Worker for ESXi
+
+
 
 
 

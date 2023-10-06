@@ -1,12 +1,12 @@
 {
     "actionOnStepFail": "stop", 
     "blueprintName": "", 
-    "blueprintUuid": "4b0a4b4d-1362-4c03-8fa4-d45c5c84b163", 
+    "blueprintUuid": "a2cdb64c-7bf2-4b6f-a4db-6ba217d7d198", 
     "cloneUrl": "", 
     "enabled": true, 
-    "externalUuid4": "8c0bc1b9-4da1-4ffe-8632-378f9b6df3c9", 
-    "key": "createwin2019uefiautounattenddualisoonmacosorlinux", 
-    "name": "Create Win2019 UEFI autounattend Dual ISO on macOS or Linux", 
+    "externalUuid4": "67f1f072-ac52-404a-a0d7-2db7ee4cc066", 
+    "key": "createwin2022uefiautounattenddualisoonmacosorlinux", 
+    "name": "Create Win2022 UEFI autounattend Dual ISO on macOS or Linux", 
     "parameterMap": [
         {
             "childParameterName": null, 
