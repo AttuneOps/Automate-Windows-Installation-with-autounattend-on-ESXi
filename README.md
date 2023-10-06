@@ -66,9 +66,9 @@ Kickstarts Windows Desktop 10 from a single ISO.
 
 | Name | Type | Script Reference | Comment |
 | ---- | ---- | ---------------- | ------- |
-| New OS Windows User: Administrator | Windows Credential | `newoswindowsuseradministrator` | The windows administrator user |
 | New OS Node | Basic Node | `newosnode` |  |
 | New OS Windows Node | Windows Node | `newoswindowsnode` |  |
+| New OS Windows User: Administrator | Windows Credential | `newoswindowsuseradministrator` | The windows administrator user |
 
 
 

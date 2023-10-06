@@ -5,8 +5,8 @@
     "cloneUrl": "", 
     "enabled": true, 
     "externalUuid4": "f7b49791-d869-422e-8ae8-f1b82ad7c22a", 
-    "key": "createwin10biosautounattendsingleisoonlinuxlink", 
-    "name": "Create Win10 BIOS autounattend Single ISO on Linux (link)", 
+    "key": "createwin10biosautounattendsingleisoonmacosorlinuxworkerlink", 
+    "name": "Create Win10 BIOS autounattend Single ISO on macOS or Linux Worker (link)", 
     "parameterMap": [
         {
             "childParameterName": null, 
