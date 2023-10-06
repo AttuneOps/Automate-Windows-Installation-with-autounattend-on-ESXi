@@ -76,7 +76,12 @@ This Project contains the following Blueprints.
 
 ### Autounattend Windows Server 2019 (Win2019) BIOS Single ISO on macOS or Linux Worker for ESXi
 
-1. Builds a Win2016 BIOS Single ISO for macOS or Linux.
+1. Builds a Win2019 BIOS Single ISO for macOS or Linux.
+2. Creates an ESXi node and boots to CD ROM running the unattended installer. 
+
+### Autounattend Windows Server 2019 (Win2019) UEFI Single ISO on macOS or Linux Worker for ESXi
+
+1. Builds a Win2019 UEFI Single ISO for macOS or Linux.
 2. Creates an ESXi node and boots to CD ROM running the unattended installer. 
 
 
