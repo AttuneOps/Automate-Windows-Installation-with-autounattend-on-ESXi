@@ -1,12 +1,12 @@
 {
     "actionOnStepFail": "stop", 
     "blueprintName": "", 
-    "blueprintUuid": "46a721c4-5bc1-406c-82f5-733518b3ad9f", 
+    "blueprintUuid": "4b0a4b4d-1362-4c03-8fa4-d45c5c84b163", 
     "cloneUrl": "", 
     "enabled": true, 
-    "externalUuid4": "f0d00f58-3c35-45ed-9081-0517417ca894", 
-    "key": "createwin2016biosautounattenddualisoonmacosorlinux", 
-    "name": "Create Win2016 BIOS autounattend Dual ISO on macOS or Linux", 
+    "externalUuid4": "8c0bc1b9-4da1-4ffe-8632-378f9b6df3c9", 
+    "key": "createwin2019uefiautounattenddualisoonmacosorlinux", 
+    "name": "Create Win2019 UEFI autounattend Dual ISO on macOS or Linux", 
     "parameterMap": [
         {
             "childParameterName": null, 
@@ -33,7 +33,7 @@
             "childProjectName": null, 
             "childProjectUuid": "05c41adc-9b4e-49f9-b72c-aa4ee4a0cf27", 
             "parentParameterKey": null, 
-            "parentStaticTextValue": "true"
+            "parentStaticTextValue": "false"
         }, 
         {
             "childParameterName": null, 
@@ -42,7 +42,7 @@
             "childProjectName": null, 
             "childProjectUuid": "05c41adc-9b4e-49f9-b72c-aa4ee4a0cf27", 
             "parentParameterKey": null, 
-            "parentStaticTextValue": "false"
+            "parentStaticTextValue": "true"
         }, 
         {
             "childParameterName": null, 
@@ -60,7 +60,7 @@
             "childProjectName": null, 
             "childProjectUuid": "05c41adc-9b4e-49f9-b72c-aa4ee4a0cf27", 
             "parentParameterKey": null, 
-            "parentStaticTextValue": "E"
+            "parentStaticTextValue": "false"
         }, 
         {
             "childParameterName": null, 
@@ -69,7 +69,7 @@
             "childProjectName": null, 
             "childProjectUuid": "05c41adc-9b4e-49f9-b72c-aa4ee4a0cf27", 
             "parentParameterKey": null, 
-            "parentStaticTextValue": "E"
+            "parentStaticTextValue": "false"
         }
     ], 
     "projectName": "", 
