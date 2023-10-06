@@ -54,6 +54,10 @@ This Project contains the following Blueprints.
 
 
 
+### Autounattend Windows 10 (Win10) BIOS Single ISO on macOS or Linux Worker for ESXi
+
+Kickstarts Windows Desktop 10 from a single ISO.
+
 
 
 
@@ -62,6 +66,9 @@ This Project contains the following Blueprints.
 
 | Name | Type | Script Reference | Comment |
 | ---- | ---- | ---------------- | ------- |
+| New OS Windows User: Administrator | Windows Credential | `newoswindowsuseradministrator` | The windows administrator user |
+| New OS Node | Basic Node | `newosnode` |  |
+| New OS Windows Node | Windows Node | `newoswindowsnode` |  |
 
 
 
