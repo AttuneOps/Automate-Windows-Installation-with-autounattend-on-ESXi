@@ -106,6 +106,9 @@ This Project contains the following Blueprints.
 ### Autounattend Windows Server 2016 (Win2016) UEFI Dual ISO on macOS or Linux Worker for ESXi
 
 
+### Autounattend Windows Server 2019 (Win2019) BIOS Dual ISO on macOS or Linux Worker for ESXi
+
+
 
 
 
