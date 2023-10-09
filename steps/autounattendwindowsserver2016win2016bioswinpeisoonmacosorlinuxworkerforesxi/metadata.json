@@ -7,35 +7,35 @@
     "key": "autounattendwindowsserver2016win2016bioswinpeisoonmacosorlinuxworkerforesxi", 
     "links": [
         {
-            "order": 0, 
-            "stepKey": "performpostcleanuplink"
-        }, 
-        {
             "order": 50, 
-            "stepKey": "performdeployesxidriverstoadropdirectorylink"
+            "stepKey": "performprecleanuplink"
         }, 
         {
             "order": 100, 
-            "stepKey": "createwin2016biosautounattendwinpeisoonmacosorlinuxworkerlink"
+            "stepKey": "performdeployesxidriverstoadropdirectorylink"
         }, 
         {
             "order": 150, 
-            "stepKey": "buildwindowsserverbiosvirtualmachineonesxilink"
+            "stepKey": "createwin2016biosautounattendwinpeisoonmacosorlinuxworkerlink"
         }, 
         {
             "order": 200, 
-            "stepKey": "winrmhttpswait60s"
+            "stepKey": "buildwindowsserverbiosvirtualmachineonesxilink"
         }, 
         {
             "order": 250, 
-            "stepKey": "performpostcleanuplink"
+            "stepKey": "winrmhttpswait60s"
         }, 
         {
             "order": 300, 
-            "stepKey": "performtestwin2016biosnodelink"
+            "stepKey": "performpostcleanuplink"
         }, 
         {
             "order": 350, 
+            "stepKey": "performtestwin2016biosnodelink"
+        }, 
+        {
+            "order": 400, 
             "stepKey": "performtestifvmwaredriversinstalledlink"
         }
     ], 
