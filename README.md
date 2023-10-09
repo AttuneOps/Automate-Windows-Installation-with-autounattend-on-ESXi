@@ -121,6 +121,9 @@ This Project contains the following Blueprints.
 ### Autounattend Windows 10 (Win10) BIOS WinPE ISO on macOS or Linux Worker for ESXi
 
 
+### Autounattend Windows 10 (Win10) UEFI WinPE ISO on macOS or Linux Worker for ESXi
+
+
 
 
 
