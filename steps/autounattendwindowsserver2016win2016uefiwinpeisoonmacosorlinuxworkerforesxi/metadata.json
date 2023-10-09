@@ -1,0 +1,44 @@
+{
+    "actionOnStepFail": "stop", 
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "536dfa57-8907-4b96-b8da-2240f19a689d", 
+    "isBlueprint": true, 
+    "key": "autounattendwindowsserver2016win2016uefiwinpeisoonmacosorlinuxworkerforesxi", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "performpostcleanuplink"
+        }, 
+        {
+            "order": 100, 
+            "stepKey": "performdeployesxidriverstoadropdirectorylink"
+        }, 
+        {
+            "order": 250, 
+            "stepKey": "createwin2016uefiautounattendwinpeisoonmacosorlinuxworkerlink"
+        }, 
+        {
+            "order": 350, 
+            "stepKey": "buildwindowsserveruefivirtualmachineonesxilink"
+        }, 
+        {
+            "order": 400, 
+            "stepKey": "winrmhttpswait60s"
+        }, 
+        {
+            "order": 500, 
+            "stepKey": "performpostcleanuplink"
+        }, 
+        {
+            "order": 650, 
+            "stepKey": "performtestwin2016uefinodelink"
+        }, 
+        {
+            "order": 700, 
+            "stepKey": "performtestifvmwaredriversinstalledlink"
+        }
+    ], 
+    "name": "Autounattend Windows Server 2016 (Win2016) UEFI WinPE ISO on macOS or Linux Worker for ESXi", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}
